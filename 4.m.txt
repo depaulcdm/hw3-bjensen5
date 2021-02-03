@@ -1,0 +1,7 @@
+The effect of a hard reset on the index erased all changes made since the last commit.
+
+The local file was deleted since it was not committed.
+
+(mine actually was not deleted since I accidentally commited, but all changes made since the first commit was deleted)
+
+
